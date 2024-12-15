@@ -6,7 +6,7 @@
 #include "Helpers/TestHelpers.h"
 
 
-#if WITH_DEV_AUTOMATION_TESTS
+#ifdef DEPRECATED_TESTS
 
 /************************************************************************/
 /* FUTURE BASIC SPEC                                                    */

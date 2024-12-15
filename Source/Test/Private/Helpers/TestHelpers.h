@@ -2,6 +2,7 @@
 
 #pragma once
 
+#ifdef DEPRECATED_TESTS
 #include <CoreMinimal.h>
 #include <Automatron.h>
 
@@ -14,3 +15,5 @@ public:
 		bUseWorld = false;
 	}
 };
+#endif
+

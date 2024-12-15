@@ -9,7 +9,6 @@ public class SDFutureExtensionsTest : ModuleRules
 
         PublicDependencyModuleNames.AddRange(new string[] {
             "Core",
-            "Automatron",
         });
 
         PrivateDependencyModuleNames.AddRange(new string[] {
